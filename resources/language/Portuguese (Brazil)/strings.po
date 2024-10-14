@@ -2063,15 +2063,15 @@ msgstr ""
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr ""
+msgstr "Adicionar rastreadores extras"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr ""
+msgstr "Todos os rastreadores conhecidos"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr ""
+msgstr "Melhores rastreadores"
 
 msgctxt "#30661"
 msgid "Minimum set"
@@ -2079,43 +2079,43 @@ msgstr ""
 
 msgctxt "#30662"
 msgid "Remove original trackers from torrent"
-msgstr ""
+msgstr "Remover rastreadores originais do torrent"
 
 msgctxt "#30663"
 msgid "Show episodes on release day (w/o delay)"
-msgstr ""
+msgstr "Mostrar episódios no dia do lançamento (sem atraso)"
 
 msgctxt "#30664"
 msgid "Modify trackers in torrent"
-msgstr ""
+msgstr "Modificar rastreadores em torrent"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr ""
+msgstr "No momento da adição"
 
 msgctxt "#30666"
 msgid "Every time"
-msgstr ""
+msgstr "Toda vez"
 
 msgctxt "#30667"
 msgid "Mark as watched in Trakt"
-msgstr ""
+msgstr "Marcar como assistido no Trakt"
 
 msgctxt "#30668"
 msgid "Mark as unwatched in Trakt"
-msgstr ""
+msgstr "Marcar como não assistido no Trakt"
 
 msgctxt "#30669"
 msgid "Delay addon startup, seconds"
-msgstr ""
+msgstr "Atraso na inicialização do addon, segundos"
 
 msgctxt "#30670"
 msgid "Downloading required binary file for '%s'"
-msgstr ""
+msgstr "Download do arquivo binário necessário para "%s"
 
 msgctxt "#30671"
 msgid "List of Opennic DNS IPs"
-msgstr ""
+msgstr "Lista de IPs de DNS do Opennic"
 
 msgctxt "#30672"
 msgid "Compact database"
@@ -2127,39 +2127,39 @@ msgstr ""
 
 msgctxt "#30674"
 msgid "Database was compacted"
-msgstr ""
+msgstr "O banco de dados foi compactado"
 
 msgctxt "#30675"
 msgid "Remote host login"
-msgstr ""
+msgstr "Login do host remoto"
 
 msgctxt "#30676"
 msgid "Remote host password"
-msgstr ""
+msgstr "Senha do host remoto"
 
 msgctxt "#30677"
 msgid "Force start as a library"
-msgstr ""
+msgstr "Início forçado como uma biblioteca"
 
 msgctxt "#30678"
 msgid "Remove from Kodi library, when movie is deleted from Trakt"
-msgstr ""
+msgstr "Remover da biblioteca do Kodi, quando o filme for excluído do Trakt"
 
 msgctxt "#30679"
 msgid "Remove from Kodi library, when show is deleted from Trakt"
-msgstr ""
+msgstr "Remover da biblioteca do Kodi, quando o seriado for excluído do Trakt"
 
 msgctxt "#30680"
 msgid "Remove Elementum duplicates from library"
-msgstr ""
+msgstr "Remover duplicatas da biblioteca do Elementum"
 
 msgctxt "#30681"
 msgid "[B]Found duplicates in Kodi library:[/B][CR]Movies: [B]%s[/B], Shows: [B]%s[/B], Episodes: [B]%s[/B][CR]Proceed?"
-msgstr ""
+msgstr "[B]Duplicatas encontradas na biblioteca do Kodi:[/B][CR]Filmes: [B]%s[/B], Seriados: [B]%s[/B], Episódios: [B]%s[/B][CR]Prosseguir?"
 
 msgctxt "#30682"
 msgid "No duplicates were found in Kodi library"
-msgstr ""
+msgstr "Não foram encontradas duplicatas na biblioteca do Kodi"
 
 msgctxt "#30683"
 msgid "Starting library duplicates removal"
@@ -2167,19 +2167,19 @@ msgstr ""
 
 msgctxt "#30684"
 msgid "Removed Movies: %s, Shows: %s, Episodes: %s"
-msgstr ""
+msgstr "Filmes removidos: %s, Seriados: %s, Episódios: %s"
 
 msgctxt "#30685"
 msgid "Remove movies from Elementum database"
-msgstr ""
+msgstr "Remover filmes do banco de dados do Elementum"
 
 msgctxt "#30686"
 msgid "Remove shows from Elementum database"
-msgstr ""
+msgstr "Remover seriados do banco de dados do Elementum"
 
 msgctxt "#30687"
 msgid "In Elementum library"
-msgstr "Na biblioteca Elementum"
+msgstr "Biblioteca do Elementum"
 
 msgctxt "#30688"
 msgid "Skip searching for installed Elementum repository"
