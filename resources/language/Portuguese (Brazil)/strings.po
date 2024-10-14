@@ -21,15 +21,15 @@ msgstr "Geral"
 
 msgctxt "#30001"
 msgid "Download path"
-msgstr ""
+msgstr "Caminho do download"
 
 msgctxt "#30004"
 msgid "Max upload rate, kB/s"
-msgstr "Taxa de upload máx. (kB/s)"
+msgstr "Taxa máxima de upload. (kB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate, kB/s"
-msgstr "Taxa de download máx. (kB/S)"
+msgstr "Taxa máxima de download. (kB/S)"
 
 msgctxt "#30006"
 msgid "Listen port, min"
@@ -97,11 +97,11 @@ msgstr "Escolher fonte automaticamente"
 
 msgctxt "#30025"
 msgid "Limit rates after initial buffering only"
-msgstr ""
+msgstr "Limite de taxas somente após o buffer inicial"
 
 msgctxt "#30026"
 msgid "Library path"
-msgstr "Local da biblioteca"
+msgstr "Caminho da biblioteca"
 
 msgctxt "#30027"
 msgid "Connections limit"
@@ -109,7 +109,7 @@ msgstr "Limite de conexões"
 
 msgctxt "#30028"
 msgid "Download after play was stopped"
-msgstr ""
+msgstr "Download após a interrupção do reproduzir"
 
 msgctxt "#30029"
 msgid "Session saving frequency, seconds"
@@ -125,7 +125,7 @@ msgstr "Desabilitar provedores com falhas"
 
 msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
-msgstr "Falhas permitidas antes de desabilitar provedor"
+msgstr "Falhas permitidas antes de desabilitar o provedor"
 
 msgctxt "#30033"
 msgid "Appearance"
@@ -133,19 +133,19 @@ msgstr "Aparência"
 
 msgctxt "#30034"
 msgid "Default view for Movies"
-msgstr "Vista padrão para Filmes"
+msgstr "Visualização padrão para Filmes"
 
 msgctxt "#30035"
 msgid "Default view for TV Shows"
-msgstr "Vista padrão para Seriados"
+msgstr "Visualização padrão para Seriados"
 
 msgctxt "#30036"
 msgid "Default view for Seasons"
-msgstr "Vista padrão para Temporadas"
+msgstr "Visualização padrão para Temporadas"
 
 msgctxt "#30037"
 msgid "Default view for Episodes"
-msgstr "Vista padrão para Episódios"
+msgstr "Visualização padrão para Episódios"
 
 msgctxt "#30039"
 msgid "TheMovieDB"
@@ -153,7 +153,7 @@ msgstr "TheMovieDB"
 
 msgctxt "#30040"
 msgid "API key"
-msgstr "API key"
+msgstr "Chave da API"
 
 msgctxt "#30041"
 msgid "Stream sorting"
@@ -189,7 +189,7 @@ msgstr "Preferência de resolução para Seriados"
 
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Porcentagem adicional de seeds necessários antes de mudar resolução"
+msgstr "Porcentagem adicional de seeds necessários antes de mudar a resolução"
 
 msgctxt "#30050"
 msgid "Disable DHT"
@@ -225,7 +225,7 @@ msgstr "Usuário"
 
 msgctxt "#30059"
 msgid "Library update delay on startup, seconds"
-msgstr "Atraso da atualização da biblioteca ao inciar (segundos)"
+msgstr "Atraso de atualização da biblioteca ao inciar (segundos)"
 
 msgctxt "#30060"
 msgid "Library update frequency, hours"
@@ -237,7 +237,7 @@ msgstr "Desabilitar UPNP & NATPMP"
 
 msgctxt "#30064"
 msgid "Encryption policy"
-msgstr "Politica de criptografia"
+msgstr "Política de criptografia"
 
 msgctxt "#30065"
 msgid "Disabled"
@@ -273,7 +273,7 @@ msgstr "Imitar outro agente (desaconselhável)"
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
-msgstr ""
+msgstr "Padrão aconselhável (aceitável)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
@@ -317,7 +317,7 @@ msgstr ""
 
 msgctxt "#30086"
 msgid "Enable tuned storage settings"
-msgstr "Habilitar configuração fina de armazenamento"
+msgstr "Habilitar configuração de armazenamento ajustado"
 
 msgctxt "#30088"
 msgid "Initial buffering timeout, seconds"
@@ -337,7 +337,7 @@ msgstr ""
 
 msgctxt "#30092"
 msgid "Use fallback fanart if fanart wasn't found"
-msgstr ""
+msgstr "Usar fanart reserva se não for encontrado fanart"
 
 msgctxt "#30093"
 msgid "Disable notification sound"
@@ -358,7 +358,7 @@ msgstr "Este addon só pode ser executado pelo Elementum"
 
 msgctxt "#30103"
 msgid "Unable to find Elementum binary[CR]Required platform:"
-msgstr ""
+msgstr "Não é possível encontrar o binário Elementum[CR]Plataforma necessária:"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -426,11 +426,11 @@ msgstr "Por favor apoie o desenvolvimento do Elementum visitando[CR]https://elem
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
-msgstr "Vista padrão para Menu em Filmes"
+msgstr "Visualização padrão para Menu em Filmes"
 
 msgctxt "#30143"
 msgid "Default view for menus in TV Shows"
-msgstr "Vista padrão para Menu em Séries"
+msgstr "Vista padrão para Menu em Seriados"
 
 msgctxt "#30144"
 msgid "Default view for movie genres"
@@ -438,7 +438,7 @@ msgstr "Vista padrão para genero de Filmes"
 
 msgctxt "#30145"
 msgid "Default view for TV show genres"
-msgstr "Vista padrão para genero de Séries"
+msgstr "Visualização padrão para genero de Seriados"
 
 msgctxt "#30146"
 msgid "Keep downloading '%s'?"
@@ -458,7 +458,7 @@ msgstr "Usuario do Trakt não definido, veja suas configurações"
 
 msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
-msgstr ""
+msgstr "Não há conexão JSON-RPC disponível para o Kodi.[CR]Ative as duas opções de controle do aplicativo em Configurações de serviço / Controle e reinicie o Kodi."
 
 # Elementum daemon
 msgctxt "#30200"
@@ -503,7 +503,7 @@ msgstr "Mais Populares"
 
 msgctxt "#30211"
 msgid "Top Rated"
-msgstr "Melhores Avaliados"
+msgstr "Mais bem avaliados"
 
 msgctxt "#30212"
 msgid "Most Voted"
@@ -511,7 +511,7 @@ msgstr "Mais Votados"
 
 msgctxt "#30213"
 msgid "IMDB Top 250"
-msgstr "IMDB Top 250"
+msgstr "Top 250 do IMDB"
 
 msgctxt "#30214"
 msgid "Movies"
