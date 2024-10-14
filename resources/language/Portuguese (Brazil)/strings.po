@@ -2179,23 +2179,23 @@ msgstr ""
 
 msgctxt "#30687"
 msgid "In Elementum library"
-msgstr ""
+msgstr "Na biblioteca Elementum"
 
 msgctxt "#30688"
 msgid "Skip searching for installed Elementum repository"
-msgstr ""
+msgstr "Ignorar a busca pelo repositório Elementum instalado"
 
 msgctxt "#30689"
 msgid "Internal DNS client"
-msgstr ""
+msgstr "Cliente DNS interno"
 
 msgctxt "#30691"
 msgid "Hide watched"
-msgstr ""
+msgstr "Esconder assistido"
 
 msgctxt "#30692"
 msgid "TMDB images quality (affects Kodi performance)"
-msgstr ""
+msgstr "Qualidade das imagens do TMDB (afeta o desempenho do Kodi)"
 
 msgctxt "#30693"
 msgid "Original"
@@ -2203,51 +2203,51 @@ msgstr ""
 
 msgctxt "#30694"
 msgid "High"
-msgstr ""
+msgstr "Alto"
 
 msgctxt "#30695"
 msgid "Medium"
-msgstr ""
+msgstr "Médio"
 
 msgctxt "#30696"
 msgid "Low"
-msgstr ""
+msgstr "Baixo"
 
 msgctxt "#30697"
 msgid "Interface language"
-msgstr ""
+msgstr "Linguagem da interface"
 
 msgctxt "#30698"
 msgid "Kodi language"
-msgstr ""
+msgstr "Idioma do Kodi"
 
 msgctxt "#30699"
 msgid "Use earliest release date for progress and calendars"
-msgstr ""
+msgstr "Usar a data de lançamento mais antiga para o progresso e os calendários"
 
 msgctxt "#30700"
 msgid "Interface fallback language"
-msgstr ""
+msgstr "Idioma de fallback da interface"
 
 msgctxt "#30701"
 msgid "English | en"
-msgstr ""
+msgstr "Inglês | en"
 
 msgctxt "#30702"
 msgid "Reached daily limit for subtitles downloads"
-msgstr ""
+msgstr "Atingiu o limite diário de downloads de legendas"
 
 msgctxt "#30703"
 msgid "Can be used by search providers or for debugging"
-msgstr ""
+msgstr "Pode ser usado por provedores de pesquisa ou para depuração"
 
 msgctxt "#30704"
 msgid "TMDB API Key check failed, cannot use TMDB service"
-msgstr ""
+msgstr "Falha na verificação da chave da API do TMDB, não é possível usar o serviço TMDB"
 
 msgctxt "#30705"
 msgid "TMDB API accessibility check failed, cannot use TMDB service"
-msgstr ""
+msgstr "Falha na verificação de acessibilidade da API do TMDB, não é possível usar o serviço do TMDB"
 
 msgctxt "#30706"
 msgid "Transmission 4.05"
@@ -2263,8 +2263,8 @@ msgstr ""
 
 msgctxt "#30709"
 msgid "Open [B]%s[/B]"
-msgstr ""
+msgstr "Abrir [B]%s[/B]"
 
 msgctxt "#30710"
 msgid "BitTorrent ports"
-msgstr ""
+msgstr "Portas do BitTorrent"
