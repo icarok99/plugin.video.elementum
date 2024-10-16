@@ -209,11 +209,11 @@ msgstr "Limite do tempo de semear (horas)"
 
 msgctxt "#30054"
 msgid "Update library"
-msgstr "Atualizar biblioteca"
+msgstr "Atualizar a biblioteca"
 
 msgctxt "#30055"
 msgid "Add Specials to library"
-msgstr "Adicionar Especiais para biblioteca"
+msgstr "Adicionar Especiais para à biblioteca"
 
 msgctxt "#30056"
 msgid "Trakt"
@@ -325,7 +325,7 @@ msgstr "Limite de tempo para carregamento (segundos)"
 
 msgctxt "#30089"
 msgid "Automatically re-scan Kodi library after updates"
-msgstr "Re-escanear biblioteca do Kodi após atualização"
+msgstr "Re-escanear a biblioteca do Kodi após atualização"
 
 msgctxt "#30090"
 msgid "Listen interfaces"
@@ -337,7 +337,7 @@ msgstr ""
 
 msgctxt "#30092"
 msgid "Use fallback fanart if fanart wasn't found"
-msgstr "Usar fanart reserva se não for encontrado fanart"
+msgstr "Usar fanart reserva se a fanart não for encontrada"
 
 msgctxt "#30093"
 msgid "Disable notification sound"
@@ -362,7 +362,7 @@ msgstr "Não é possível encontrar o binário Elementum[CR]Plataforma necessár
 
 msgctxt "#30104"
 msgid "Insert file or URL"
-msgstr "Informe arquivo ou URL"
+msgstr "Informe o arquivo ou URL"
 
 msgctxt "#30105"
 msgid "URL"
@@ -378,7 +378,7 @@ msgstr "Informe a URL"
 
 msgctxt "#30108"
 msgid "File path"
-msgstr "Local do arquivo"
+msgstr "Caminho do arquivo"
 
 msgctxt "#30109"
 msgid "OK"
@@ -398,7 +398,7 @@ msgstr "Não foi possível desabilitar o provedor"
 
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
-msgstr "Local de download não definido, verifique suas configurações"
+msgstr "Caminho de download não definido, verifique suas configurações"
 
 msgctxt "#30116"
 msgid "Looks like Elementum is still starting up, give it a few seconds..."
@@ -430,11 +430,11 @@ msgstr "Visualização padrão para Menu em Filmes"
 
 msgctxt "#30143"
 msgid "Default view for menus in TV Shows"
-msgstr "Vista padrão para Menu em Séries"
+msgstr "Visualização padrão para Menu em Séries"
 
 msgctxt "#30144"
 msgid "Default view for movie genres"
-msgstr "Vista padrão para genero de Filmes"
+msgstr "Visualização padrão para genero de Filmes"
 
 msgctxt "#30145"
 msgid "Default view for TV show genres"
@@ -487,7 +487,7 @@ msgstr "Pesquisar Filmes"
 
 msgctxt "#30207"
 msgid "Not enough space available on the download path."
-msgstr "Não há espaço suficiente no local de download."
+msgstr "Não há espaço suficiente disponível no caminho de download."
 
 msgctxt "#30208"
 msgid "Elementum daemon has started"
@@ -531,7 +531,7 @@ msgstr "Próxima página"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Local da biblioteca não definido"
+msgstr "Caminho da biblioteca não definido"
 
 msgctxt "#30224"
 msgid "Provider error"
@@ -615,11 +615,11 @@ msgstr "Tendências"
 
 msgctxt "#30247"
 msgid "Most Played"
-msgstr "Mais Tocados"
+msgstr "Mais Reproduzidos"
 
 msgctxt "#30248"
 msgid "Most Watched"
-msgstr "Mais Vistos"
+msgstr "Mais Assistidos"
 
 msgctxt "#30249"
 msgid "Most Collected"
@@ -655,7 +655,7 @@ msgstr "Remover da Minha Lista"
 
 msgctxt "#30257"
 msgid "My Collection"
-msgstr "Coleção"
+msgstr "Minha Coleção"
 
 msgctxt "#30258"
 msgid "Add to collection"
@@ -671,11 +671,11 @@ msgstr "Gostaria de usar o último Torrent selecionado?[CR]%s"
 
 msgctxt "#30263"
 msgid "My Lists"
-msgstr "Listas"
+msgstr "Minhas listas"
 
 msgctxt "#30268"
 msgid "Toggle watched"
-msgstr "Alternar marcador de Visto"
+msgstr "Alternar marcador de assistido"
 
 msgctxt "#30269"
 msgid "Delete downloaded files '%s'?"
@@ -691,7 +691,7 @@ msgstr "Instalação bem sucedida, aproveite o Elementum [COLOR FFFF6B00]Burst[/
 
 msgctxt "#30273"
 msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
-msgstr "Parece que não foi possível instalar [COLOR FFFF6B00]Burst[/COLOR] automaticamente, vá ao Repositório do Elementum, e depois na seção Add-ons de programas para instalá-lo."
+msgstr "Parece que não foi possível instalar o [COLOR FFFF6B00]Burst[/COLOR] automaticamente, vá ao Repositório do Elementum, e depois na seção Add-ons de programas para instalá-lo."
 
 msgctxt "#30274"
 msgid "Enable all"
@@ -707,7 +707,7 @@ msgstr "Excluir torrent e arquivos"
 
 msgctxt "#30277"
 msgid "%s added to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
-msgstr "%s adicionado à biblioteca, fazer outra varredura?[CR]Você também pode usar o recurso 'Atualizar biblioteca' do Kodi em vez disso."
+msgstr "%s adicionado à biblioteca, fazer outra varredura?[CR]Você também pode usar o recurso 'Atualizar a biblioteca' do Kodi em vez disso."
 
 msgctxt "#30278"
 msgid "%s removed from library, do you want to clean it?[CR]You can later use Kodi's 'Clean library' feature instead."
@@ -715,7 +715,7 @@ msgstr "%s removido da biblioteca, quer limpá-la?[CR]Você também pode usar o 
 
 msgctxt "#30279"
 msgid "Video %s was previously removed from library.[CR]Force adding?"
-msgstr ""
+msgstr "O vídeo %s foi removido anteriormente da biblioteca.[CR]Forçar adição?"
 
 msgctxt "#30282"
 msgid "Nothing left to remove from Elementum"
@@ -771,27 +771,27 @@ msgstr "Todos os Lançamentos"
 
 msgctxt "#30295"
 msgid "My Shows"
-msgstr "Meus Shows"
+msgstr "Minhas séries"
 
 msgctxt "#30296"
 msgid "My New Shows"
-msgstr "Meus Novos Shows"
+msgstr "Minhas novas séries"
 
 msgctxt "#30297"
 msgid "My Premieres"
-msgstr "Minhas Estreias"
+msgstr "Meus lançamentos"
 
 msgctxt "#30298"
 msgid "All Shows"
-msgstr "Todos os Shows"
+msgstr "Todas as séries"
 
 msgctxt "#30299"
 msgid "All New Shows"
-msgstr "Todos os Novos Shows"
+msgstr "Todas as novas séries"
 
 msgctxt "#30300"
 msgid "All Premieres"
-msgstr "Todas as Estreias"
+msgstr "Todos os lançamentos"
 
 msgctxt "#30301"
 msgid "Move finished downloads to separate folders"
@@ -803,83 +803,83 @@ msgstr "Arquivos serão movidos quando a reprodução e tempo de semear terminar
 
 msgctxt "#30303"
 msgid "RAR archive detected. Download will need to be completed before playback can start and will require around twice the amount of space, continue?"
-msgstr ""
+msgstr "Arquivo RAR detectado. O download precisará ser concluído antes que a reprodução possa ser iniciada e exigirá cerca de duas vezes mais espaço, continuar?"
 
 msgctxt "#30304"
 msgid "Error creating output pipe for 'unrar' command"
-msgstr ""
+msgstr "Erro ao criar o pipe de saída para o comando 'unrar'"
 
 msgctxt "#30305"
 msgid "Error starting 'unrar' command"
-msgstr ""
+msgstr "Erro ao iniciar o comando 'unrar"
 
 msgctxt "#30306"
 msgid "Error waiting for 'unrar' command"
-msgstr ""
+msgstr "Erro ao aguardar o comando 'unrar'"
 
 msgctxt "#30307"
 msgid "Error reading from destination folder"
-msgstr ""
+msgstr "Erro ao ler a pasta de destino"
 
 msgctxt "#30308"
 msgid "Move completed"
-msgstr ""
+msgstr "Transferência concluída"
 
 msgctxt "#30309"
 msgid "Keep"
-msgstr ""
+msgstr "Manter"
 
 msgctxt "#30310"
 msgid "Ask to delete"
-msgstr ""
+msgstr "Solicitar a exclusão"
 
 msgctxt "#30311"
 msgid "Delete"
-msgstr ""
+msgstr "Deletar"
 
 msgctxt "#30312"
 msgid "Keep files for not finished video"
-msgstr ""
+msgstr "Manter arquivos para vídeos não concluídos"
 
 msgctxt "#30313"
 msgid "Keep files for watched/downloaded video"
-msgstr ""
+msgstr "Manter arquivos para vídeos assistidos/baixados"
 
 msgctxt "#30314"
 msgid "Settings were not initialized.[CR]Save addon settings, then restart Kodi."
-msgstr ""
+msgstr "As configurações não foram inicializadas.[CR]Salve as configurações do addon e reinicie o Kodi."
 
 msgctxt "#30315"
 msgid "Download storage type"
-msgstr ""
+msgstr "Tipo de armazenamento para download"
 
 msgctxt "#30316"
 msgid "Use files"
-msgstr ""
+msgstr "Usar os arquivos"
 
 msgctxt "#30317"
 msgid "Use memory"
-msgstr ""
+msgstr "Usar a memória"
 
 msgctxt "#30318"
 msgid "Memory size to use for each torrent, Mb"
-msgstr ""
+msgstr "Tamanho da memória a ser usada para cada torrent, Mb"
 
 msgctxt "#30319"
 msgid "Continue"
-msgstr ""
+msgstr "Continuar"
 
 msgctxt "#30320"
 msgid "Ask to stop"
-msgstr ""
+msgstr "Pedir para parar"
 
 msgctxt "#30321"
 msgid "Stop"
-msgstr ""
+msgstr "Parar"
 
 msgctxt "#30323"
 msgid "New search"
-msgstr ""
+msgstr "Nova pesquisa"
 
 msgctxt "#30324"
 msgid "Force stream auto-selection from settings"
@@ -891,47 +891,47 @@ msgstr ""
 
 msgctxt "#30326"
 msgid "Kodi library"
-msgstr ""
+msgstr "Biblioteca do kodi"
 
 msgctxt "#30327"
 msgid "Storage"
-msgstr ""
+msgstr "Armazenamento"
 
 msgctxt "#30328"
 msgid "Disable TCP"
-msgstr ""
+msgstr "Desativar TCP"
 
 msgctxt "#30329"
 msgid "Disable UTP"
-msgstr ""
+msgstr "Desativar UTP"
 
 msgctxt "#30330"
 msgid "Update Trakt"
-msgstr ""
+msgstr "Atualizar o Trakt"
 
 msgctxt "#30332"
 msgid "Reloading configuration..."
-msgstr ""
+msgstr "Recarregando configuração..."
 
 msgctxt "#30333"
 msgid "Try to find other episodes in the torrent"
-msgstr ""
+msgstr "Tente encontrar outros episódios no torrent"
 
 msgctxt "#30347"
 msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
-msgstr ""
+msgstr "Não foi possível encontrar o binário para a arquitetura '%s'![CR]Tente desinstalar esse addon, baixe-o novamente e reinstale-o a partir do maior zip."
 
 msgctxt "#30348"
 msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
-msgstr ""
+msgstr "Crie arquivos comuns no sistema de arquivos e grave neles.[CR]Precisa que o tamanho total do arquivo selecionado esteja disponível no disco!"
 
 msgctxt "#30349"
 msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
-msgstr ""
+msgstr "Usar a memória do dispositivo para baixar partes do torrent.[CR]O disco é usado somente para baixar e salvar o arquivo .torrent,"
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr ""
+msgstr "portanto, pode ser qualquer armazenamento. Para dispositivos com memória de 1 gb[CR]100 MB são suficientes para o armazenamento de memória, 200-250 MB para dispositivos maiores."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
