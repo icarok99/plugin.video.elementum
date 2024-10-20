@@ -935,11 +935,11 @@ msgstr "portanto, pode ser qualquer armazenamento. Para dispositivos com memóri
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
-msgstr ""
+msgstr "O mesmo que para o armazenamento normal de arquivos, mas divide o arquivo em vários arquivos pequenos.[CR]Deve ser usado em sistemas de arquivos FAT-32."
 
 msgctxt "#30352"
 msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
-msgstr ""
+msgstr "O mesmo que para o armazenamento normal de arquivos, mas usando a memória[CR]para reduzir as operações do sistema de arquivos. Armazenamento experimental!"
 
 msgctxt "#30355"
 msgid "Changelog"
@@ -947,119 +947,119 @@ msgstr ""
 
 msgctxt "#30357"
 msgid "Use Trakt information in Trakt lists"
-msgstr ""
+msgstr "Usar informações do Trakt em listas do Trakt"
 
 msgctxt "#30358"
 msgid "Trakt update started"
-msgstr ""
+msgstr "Atualização do Trakt iniciada"
 
 msgctxt "#30359"
 msgid "Do not ask questions before playback"
-msgstr ""
+msgstr "Não faça perguntas antes da reprodução"
 
 msgctxt "#30360"
 msgid "My Progress"
-msgstr ""
+msgstr "Meu progresso"
 
 msgctxt "#30361"
 msgid "My History"
-msgstr ""
+msgstr "Meu histórico"
 
 msgctxt "#30362"
 msgid "Synchronization"
-msgstr ""
+msgstr "Sincronização"
 
 msgctxt "#30363"
 msgid "Sync items from collections into Kodi library"
-msgstr ""
+msgstr "Sincronizar itens da coleções na biblioteca do Kodi"
 
 msgctxt "#30364"
 msgid "Sync items from watchlist into Kodi library"
-msgstr ""
+msgstr "Sincronizar itens da minha lista na biblioteca do Kodi"
 
 msgctxt "#30365"
 msgid "Sync items from user lists into Kodi library"
-msgstr ""
+msgstr "Sincronize itens das listas de usuários na biblioteca do Kodi"
 
 msgctxt "#30366"
 msgid "Sync watched states from Trakt into Kodi library"
-msgstr ""
+msgstr "Sincronizar estados assistidos do Trakt com a biblioteca do Kodi"
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
-msgstr ""
+msgstr "Sincronizar de volta os estados assistidos do Kodi no Trakt"
 
 msgctxt "#30369"
 msgid "Disable Upload"
-msgstr ""
+msgstr "Desativar upload"
 
 msgctxt "#30370"
 msgid "Auto-assign network IP"
-msgstr ""
+msgstr "Atribuição automática de IP de rede"
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "Atribuição automática de portas de rede"
 
 msgctxt "#30373"
 msgid "Languages"
-msgstr ""
+msgstr "Idiomas"
 
 msgctxt "#30374"
 msgid "Countries"
-msgstr ""
+msgstr "Países"
 
 msgctxt "#30375"
 msgid "By size"
-msgstr ""
+msgstr "Por tamanho"
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
-msgstr ""
+msgstr "Escolher o tamanho da memória automaticamente"
 
 msgctxt "#30377"
 msgid "Size is chosen automatically, based on[CR]physical amount of memory"
-msgstr ""
+msgstr "O tamanho é escolhido automaticamente, com base na quantidade física de memória"
 
 msgctxt "#30378"
 msgid "Allow memory usage"
-msgstr ""
+msgstr "Permitir o uso da memória"
 
 msgctxt "#30379"
 msgid "Minimum - 40MB, Default - 8%, Maximum - 15%"
-msgstr ""
+msgstr "Mínimo - 40 MB, Padrão - 8%, Máximo - 15%"
 
 msgctxt "#30380"
 msgid "Minimum"
-msgstr ""
+msgstr "Mínimo"
 
 msgctxt "#30381"
 msgid "Default"
-msgstr ""
+msgstr "Padrão"
 
 msgctxt "#30382"
 msgid "Maximum"
-msgstr ""
+msgstr "Máximo"
 
 msgctxt "#30383"
 msgid "Use Kodi language for subtitles search"
-msgstr ""
+msgstr "Usar o idioma do Kodi para pesquisar legendas"
 
 msgctxt "#30384"
 msgid "Language code for subtitles (example: en, it, es)"
-msgstr ""
+msgstr "Código de idioma para legendas (exemplo: en, it, es)"
 
 msgctxt "#30386"
 msgid "Disable background progress dialog on playback"
-msgstr ""
+msgstr "Desativar a caixa de diálogo de progresso em segundo plano durante a reprodução"
 
 msgctxt "#30387"
 msgid "Caching"
-msgstr ""
+msgstr "Armazenamento em cache"
 
 msgctxt "#30388"
 msgid "Cache stream selection"
-msgstr ""
+msgstr "Seleção de fluxo de cache"
 
 msgctxt "#30389"
 msgid "Cache stream search results"
