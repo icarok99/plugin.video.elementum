@@ -1663,67 +1663,67 @@ msgstr ""
 
 msgctxt "#30556"
 msgid "Add to the library"
-msgstr ""
+msgstr "Adicionar à biblioteca"
 
 msgctxt "#30557"
 msgid "Number of popular movies to search"
-msgstr ""
+msgstr "Número de filmes populares para pesquisar"
 
 msgctxt "#30558"
 msgid "Latest available movies"
-msgstr ""
+msgstr "Últimos filmes disponíveis"
 
 msgctxt "#30559"
 msgid "Skip searching for installed providers"
-msgstr ""
+msgstr "Ignorar a busca por provedores instalados"
 
 msgctxt "#30560"
 msgid "Files: %s"
-msgstr ""
+msgstr "Arquivos: %s"
 
 msgctxt "#30561"
 msgid "Interval between requests, seconds"
-msgstr ""
+msgstr "Intervalo entre solicitações, segundos"
 
 msgctxt "#30562"
 msgid "Open directory with Kodi file browser"
-msgstr ""
+msgstr "Abra o diretório com o navegador de arquivos do Kodi"
 
 msgctxt "#30563"
 msgid "Synchronize frequency of Trakt, minutes"
-msgstr ""
+msgstr "Sincronizar a frequência do Trakt, minutos"
 
 msgctxt "#30564"
 msgid "Sync hidden items"
-msgstr ""
+msgstr "Sincronizar itens ocultos"
 
 msgctxt "#30565"
 msgid "Sync playback progress into Kodi library"
-msgstr ""
+msgstr "Sincronizar o progresso da reprodução na biblioteca do Kodi"
 
 msgctxt "#30566"
 msgid "Lists"
-msgstr ""
+msgstr "Listas"
 
 msgctxt "#30567"
 msgid "Show \"All seasons\" in shows"
-msgstr ""
+msgstr "Mostrar \"Todas as temporadas\" nas séries"
 
 msgctxt "#30568"
 msgid "Seasons order"
-msgstr ""
+msgstr "Ordem das temporadas"
 
 msgctxt "#30569"
 msgid "Ascending"
-msgstr ""
+msgstr "Ascendente"
 
 msgctxt "#30570"
 msgid "Descending"
-msgstr ""
+msgstr "Descendente"
 
 msgctxt "#30571"
 msgid "* All seasons"
-msgstr ""
+msgstr "* Todas as temporadas"
 
 msgctxt "#30572"
 msgid "Log server's response body"
@@ -1731,7 +1731,7 @@ msgstr ""
 
 msgctxt "#30573"
 msgid "Select file to play"
-msgstr ""
+msgstr "Selecione o arquivo a ser reproduzido"
 
 msgctxt "#30574"
 msgid "Automatically answer Yes after timeout"
