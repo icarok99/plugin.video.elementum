@@ -1735,15 +1735,15 @@ msgstr ""
 
 msgctxt "#30574"
 msgid "Automatically answer Yes after timeout"
-msgstr ""
+msgstr "Responder automaticamente "Sim" após o tempo limite"
 
 msgctxt "#30575"
 msgid "Timeout, seconds"
-msgstr ""
+msgstr "Tempo limite, segundos"
 
 msgctxt "#30576"
 msgid "Trakt authentication needs to be updated!"
-msgstr ""
+msgstr "A autenticação do Trakt precisa ser atualizada!"
 
 msgctxt "#30577"
 msgid "End of file Buffer size, MB"
@@ -1755,7 +1755,7 @@ msgstr ""
 
 msgctxt "#30579"
 msgid "Settings"
-msgstr ""
+msgstr "Configurações"
 
 msgctxt "#30580"
 msgid "Custom Trakt API Client ID"
@@ -1767,19 +1767,19 @@ msgstr ""
 
 msgctxt "#30582"
 msgid "Settings for %s provider"
-msgstr ""
+msgstr "Configurações para o provedor %s"
 
 msgctxt "#30583"
 msgid "Resolving magnet link"
-msgstr ""
+msgstr "Resolvendo o link magnético"
 
 msgctxt "#30585"
 msgid "Enable library integration with Kodi"
-msgstr ""
+msgstr "Ativar a integração da biblioteca com o Kodi"
 
 msgctxt "#30586"
 msgid "If disabled - Elementum will not get/insert items to Kodi library [CR]and skip watched management with Kodi."
-msgstr ""
+msgstr "Se desativado, o Elementum não obterá/inserirá itens na biblioteca do Kodi[CR]e ignorará o gerenciamento assistido com o Kodi."
 
 msgctxt "#30587"
 msgid "Show welcome message on start"
@@ -2063,15 +2063,15 @@ msgstr "Desativar o LSD"
 
 msgctxt "#30658"
 msgid "Add extra trackers"
-msgstr "Adicionar rastreadores extras"
+msgstr "Adicionar trackers extras"
 
 msgctxt "#30659"
 msgid "All known trackers"
-msgstr "Todos os rastreadores conhecidos"
+msgstr "Todos os trackers conhecidos"
 
 msgctxt "#30660"
 msgid "Best trackers"
-msgstr "Melhores rastreadores"
+msgstr "Melhores trackers"
 
 msgctxt "#30661"
 msgid "Minimum set"
